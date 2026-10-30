@@ -1,0 +1,9 @@
+Este é um simples software que explora criptografia simétrica e assimétrica, 
+utilizando a biblioteca `cryptography` do Python. 
+Ele permite que o usuário criptografe e descriptografe arquivos de texto, 
+além de gerar chaves de criptografia.
+
+Para utilizar este software, você precisará ter o Python 3.10 ou superior instalado em seu sistema,
+e instalar a biblioteca `cryptography` que pode ser feito utilizando o seguinte comando em seu ambiente
+
+`py -m pip install -r requirements.txt`
